@@ -1,0 +1,12 @@
+git 2.34.1
+
+VScode 1.84.2
+
+Python 3.10.12
+python3.10-venv
+
+Java openjdk 11.0.20.1
+
+Jenkins 2.426.1
+
+Docker Engine 24.0.7
